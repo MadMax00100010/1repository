@@ -18,12 +18,14 @@ int main(){
         std::cout << "a - b = " << a - b <<'\n';
         break;
     case '+':
+//коммент
         std::cout << "a + b = " << a + b << '\n';
         break;
     case '*':
         std::cout << "a * b = " << a * b << '\n';
         break;
     case '/':
+//коммент
         std::cout << "a / b = " << a / b << '\n';
         break;
     default:

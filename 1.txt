@@ -13,6 +13,7 @@ int main(){
  \\
     switch (operation){
     case '-':
+//комментарий
         std::cout << "a - b = " << a - b <<'\n';
         break;
     case '+':
@@ -25,6 +26,8 @@ int main(){
         std::cout << "a / b = " << a / b << '\n';
         break;
     default:
+
+//комментарий
         std::cout << "Error\n";
     }
     return 0;
